@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Christos Hadjinikolis",
     author_email="christos.hadjinikolis@gmail.com",
-    description="A package for doing style transfer between images with pytorch.",
+    description="A package for doing style transfer between content_images with pytorch.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/Christos-Hadjinikolis/style-transfer",
