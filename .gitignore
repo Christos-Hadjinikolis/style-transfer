@@ -208,8 +208,9 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+*.ipynb_checkpoints
 tests/.ipynb_checkpoints
+tests/experiments/.ipynb_checkpoints
 
 # IPython
 profile_default/
